@@ -1,0 +1,6 @@
+com\minor_project\minor_project\MinorProjectApplication.class
+com\minor_project\minor_project\repository\UserRepository.class
+com\minor_project\minor_project\Entity\User.class
+com\minor_project\minor_project\Controller\AuthController.class
+com\minor_project\minor_project\config\SecurityConfig.class
+com\minor_project\minor_project\Service\UserService.class
